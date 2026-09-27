@@ -34,7 +34,7 @@ public class DataInitializer implements CommandLineRunner {
             return;
         }
 
-        log.info("Seeding CertiChain Master Data & Chart of Accounts...");
+        log.info("Seeding Certora Master Data & Chart of Accounts...");
 
         // 1. Seed Chart of Accounts
         Account bankAcc = accountRepository.save(Account.builder()
@@ -178,6 +178,6 @@ public class DataInitializer implements CommandLineRunner {
         VendorBill bill = billingService.createVendorBillFromPO(po.getId());
         billingService.payVendorBill(bill.getId());
 
-        log.info("CertiChain initial data seeding successfully completed!");
+        log.info("Certora initial data seeding successfully completed!");
     }
 }
