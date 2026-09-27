@@ -47,7 +47,7 @@
 
           <div class="form-group">
             <label>Student Full Name *</label>
-            <input type="text" th:field="*{studentName}" class="form-control" placeholder="e.g. Pavithran P N" required>
+            <input type="text" th:field="*{studentName}" class="form-control" placeholder="e.g. Jeethesh M" required>
           </div>
 
           <div class="form-group">
@@ -114,7 +114,7 @@
             <tr th:each="cert : ${certificates}">
               <td th:text="${cert.id}">1</td>
               <td style="font-weight: 600;" th:text="${cert.certificateNumber}">CERT-001</td>
-              <td th:text="${cert.studentName}">Pavithran</td>
+              <td th:text="${cert.studentName}">Jeethesh M</td>
               <td th:text="${cert.degree}">B.Tech AIDS</td>
               <td th:text="${cert.institution.name}">SECE</td>
               <td th:text="${cert.issueDate}">2026-06-15</td>

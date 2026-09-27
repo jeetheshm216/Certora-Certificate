@@ -149,8 +149,8 @@ public class DataInitializer implements CommandLineRunner {
         // 7. Seed Sample Certificates with SHA-256 Hashes
         certificateService.issueCertificate(CertificateIssueRequest.builder()
                 .certificateNumber("CERT-2026-001")
-                .studentName("Pavithran P N")
-                .studentEmail("pavithran@example.com")
+                .studentName("Jeethesh M")
+                .studentEmail("jeethesh@example.com")
                 .degree("Bachelor of Technology")
                 .major("Artificial Intelligence and Data Science")
                 .cgpa(9.45)

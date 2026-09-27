@@ -12,7 +12,7 @@ of
 
 ### PROJECT WORK
 **Submitted by:**  
-**PAVITHRAN P N — 722825243141**  
+**JEETHESH M — 722825243141**  
 
 **BATCH:** 2025 – 2029  
 
@@ -39,7 +39,7 @@ Certified that this Report titled **"BLOCKCHAIN-BACKED CERTIFICATE ISSUANCE & VE
 
 | Student Name | Register Number |
 | :--- | :--- |
-| **PAVITHRAN P N** | **722825243141** |
+| **JEETHESH M** | **722825243141** |
 
 who carried out the project work under my supervision.
 
@@ -67,14 +67,14 @@ _________________________ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 
 ## DECLARATION
 
-I, **PAVITHRAN P N (Reg. No: 722825243141)**, hereby declare that the project entitled **"BLOCKCHAIN-BACKED CERTIFICATE ISSUANCE & VERIFICATION PLATFORM WITH INTEGRATED DOUBLE-ENTRY ACCOUNTING (CERTICHAIN)"** submitted in partial fulfillment to Anna University as the project work of Bachelor of Technology in Artificial Intelligence and Data Science Degree, is a record of original work done by me under the supervision and guidance of **Dr. G. Shobana, M.E., Ph.D., Associate Professor**, Department of Artificial Intelligence and Data Science, Sri Eshwar College of Engineering, Coimbatore.
+I, **JEETHESH M (Reg. No: 722825243141)**, hereby declare that the project entitled **"BLOCKCHAIN-BACKED CERTIFICATE ISSUANCE & VERIFICATION PLATFORM WITH INTEGRATED DOUBLE-ENTRY ACCOUNTING (CERTICHAIN)"** submitted in partial fulfillment to Anna University as the project work of Bachelor of Technology in Artificial Intelligence and Data Science Degree, is a record of original work done by me under the supervision and guidance of **Dr. G. Shobana, M.E., Ph.D., Associate Professor**, Department of Artificial Intelligence and Data Science, Sri Eshwar College of Engineering, Coimbatore.
 
 <br>
 
 **Place:** Coimbatore  
 **Date:** 28.09.2026  
 
-**PAVITHRAN P N**  
+**JEETHESH M**  
 (722825243141)
 
 <br>
@@ -1091,8 +1091,8 @@ public class AccountingService {
 
 ### Figure 2: Public Cryptographic Verification Portal (Authentic Match)
 * **Functionality Shown:** Real-time credential integrity validation using 64-character SHA-256 hashes.
-* **User Action & Processing:** User inputs hash `eff523cc6e42280a8f3702fd336689de5bc46971d193ed3f66037f2411b2b146`. The server recomputes the payload hash and compares it with the database record.
-* **Observed Result:** Green verified badge displaying student name (*Pavithran P N*), degree (*B.Tech AI & DS*), accredited institution (*Sri Eshwar College of Engineering*), and on-chain timestamp.
+* **User Action & Processing:** User inputs hash `05e4e23796b05a76595236f65f78b1b46e4d14d913a2ff937ad2d6348f53fe61`. The server recomputes the payload hash and compares it with the database record.
+* **Observed Result:** Green verified badge displaying student name (*Jeethesh M*), degree (*B.Tech AI & DS*), accredited institution (*Sri Eshwar College of Engineering*), and on-chain timestamp.
 
 ### Figure 3: Tamper Detection & Revocation Lookup
 * **Functionality Shown:** Immediate flagging of invalid, modified, or forged certificate hashes.
@@ -1159,7 +1159,7 @@ Furthermore, by integrating a complete **automated double-entry general ledger e
 | **PROJECT TITLE** | **Blockchain-Backed Certificate Issuance & Verification Platform with Integrated Double-Entry Accounting (CertiChain)** |
 | **PROGRAM** | **B.Tech. ARTIFICIAL INTELLIGENCE & DATA SCIENCE** |
 | **PROJECT BATCH NUMBER** | **Batch 1** |
-| **BATCH MEMBERS** | **PAVITHRAN P N — 722825243141** |
+| **BATCH MEMBERS** | **JEETHESH M — 722825243141** |
 | **NAME OF THE SUPERVISOR** | **Dr. G. SHOBANA, M.E., Ph.D.** |
 | **NAME OF THE SDG GOALS MAPPED** | **Quality Education (SDG 4)**<br>**Industry, Innovation and Infrastructure (SDG 9)**<br>**Peace, Justice and Strong Institutions (SDG 16)** |
 | **MENTION THE SDG GOALS NUMBER** | **SDG 4, SDG 9, SDG 16** |
@@ -1175,7 +1175,7 @@ Furthermore, by integrating a complete **automated double-entry general ledger e
 <br><br>
 
 **Signature of the Supervisor:** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Signature of the Student:**  
-**(Dr. G. Shobana, M.E., Ph.D.)** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **(PAVITHRAN P N)**
+**(Dr. G. Shobana, M.E., Ph.D.)** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **(JEETHESH M)**
 
 ---
 
@@ -1198,5 +1198,5 @@ Furthermore, by integrating a complete **automated double-entry general ledger e
 <br><br>
 
 **Signature of the Student:** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Signature of the Supervisor:**  
-**PAVITHRAN P N** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Dr. G. Shobana, M.E., Ph.D.**  
+**JEETHESH M** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Dr. G. Shobana, M.E., Ph.D.**  
 (722825243141) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Associate Professor / AI & DS
